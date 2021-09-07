@@ -5,7 +5,7 @@
 ## 팀원
 * [cho sumin(조수민)](https://github.com/00ssum) (팀장)
 * [youngseo0526(김영서)](https://github.com/youngseo0526) 
-* [HyunSoo Seo(서현수)](https://github.com/hyunsoo41?tab=following)
+* [HyunSoo Seo(서현수)](https://github.com/hyunsoo41)
 * [DaGyeong Choi(최다경)](https://github.com/DaGyeongChoi)
 
 ## 목표 및 진행방향
