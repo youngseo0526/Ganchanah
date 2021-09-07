@@ -13,10 +13,12 @@
 
 ## Dataset
 https://www.kaggle.com/ikarus777/best-artworks-of-all-timez
+
 ![image](https://user-images.githubusercontent.com/60006301/132284045-d28c4021-016d-44d7-a315-c1eb47b4d724.png)
 
 ## Cycle Gan
 https://arxiv.org/pdf/1703.10593.pdf
+
 ![image](https://user-images.githubusercontent.com/60006301/132284153-f7f58035-07b1-41b8-93d7-f85227ae96c5.png)
 
 ## 결과
