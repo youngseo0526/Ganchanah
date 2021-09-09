@@ -1,6 +1,7 @@
 # Ganchanah
 
 > 직접 찍은 일상 사진을 유명 고전 화가 화풍으로 변환시키는 시스템
+> + image detection을 통해 특정부분만을 고전 화가 화풍으로 변환시키는 시스템
 ----
 ## 팀원
 * [cho sumin(조수민)](https://github.com/00ssum) (팀장)
