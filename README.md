@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/60006301/132284959-fb348b85-bc8e-4d64-bed6-d50b504f9007.png)
 
 ## Data Setting
-* 아래의 링크에서 전저치된 dataset 다운로드 가능
+* 아래의 링크에서 전처리 된 dataset 다운로드 가능
 
 [download dataset](https://drive.google.com/drive/folders/1WXKcf5Bu2T_gOwVV4nhUjLSXdCuoO0CJ?usp=sharing)
 
